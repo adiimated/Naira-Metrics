@@ -15,16 +15,16 @@ import os
 import pickle
 
 # Load data
-file_path = 'dataset/1960_onwards1.csv'
+file_path = 'web_app/dataset/1960_onwards1.csv'
 data = pd.read_csv(file_path)
 
-file = 'dataset/1980_onwards.csv'
+file = 'web_app/dataset/1980_onwards.csv'
 df = pd.read_csv(file)
 
-file1 = 'dataset/1990_onwards.csv'
+file1 = 'web_app/dataset/1990_onwards.csv'
 df1=pd.read_csv(file1)
 
-file2= 'dataset/2000_onwards.csv'
+file2= 'web_app/dataset/2000_onwards.csv'
 df2=pd.read_csv(file2)
 
 # Define plotting functions
