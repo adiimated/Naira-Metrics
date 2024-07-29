@@ -205,7 +205,7 @@ elif selected == "EDA":
 
     st.subheader('Download the Entire Report:')
 
-    with open(".web_app/Media/eda_report.pdf", "rb") as pdf_file:
+    with open("web_app/Media/eda_report.pdf", "rb") as pdf_file:
         PDFbyte = pdf_file.read()
     
     st.download_button(
