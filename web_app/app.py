@@ -122,7 +122,7 @@ with st.sidebar:
     )
 
 if selected == "Introduction":
-    st.title('Quick View of Price Surge in Nigeria Economy Using Data Science')
+    st.title('Naira Metrics: Price Surge in Nigeria Economy')
     st.image("web_app/Media/surge-price.jpg", caption="Economic Overview", use_column_width=True)
     st.subheader('Challenge Background')
     st.write("""
