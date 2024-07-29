@@ -678,7 +678,7 @@ elif selected == "GDP":
 
 elif selected == "Notebook Viewer":
     st.title("Jupyter Notebooks Viewer & Downloader")
-    notebooks_dir = 'Notebooks'
+    notebooks_dir = 'web_app/Notebooks'
     if not os.path.exists(notebooks_dir):
         st.error(f"The directory {notebooks_dir} does not exist.")
     else:
