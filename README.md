@@ -1,4 +1,4 @@
-# Nigerian-Economic-Impact-2024
+# Naira Metrics : Price Surge in Nigerian Economy
 
 <img src="https://github.com/adiimated/Nigerian-Economic-Impact-2024/blob/main/web_app/Media/surge-price.jpg" style="width: 750px;">
 
