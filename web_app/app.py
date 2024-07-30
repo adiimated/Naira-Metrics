@@ -497,6 +497,7 @@ if selected == "Visualizations":
 # Consumer Price Index
 elif selected == "Consumer Price Index":
     st.title('Consumer Price Index Prediction Tool')
+    st.image("web_app/Media/Consumer-Price-Index.jpg", caption="Consumer Price Index", use_column_width=True)
     # Continue with content for Consumer Price Index
     st.markdown("""
     ## What is the Consumer Price Index (CPI)?
@@ -563,6 +564,7 @@ elif selected == "Consumer Price Index":
 #----------------------------------------------GDP-------------------------------------------------------------------
 elif selected == "GDP":
     st.title('GDP per Capita Prediction Tool')
+    st.image("web_app/Media/GDP.jpg", caption="Consumer Price Index", use_column_width=True)
     # Continue with content for GDP
     st.markdown("""
     ## What is GDP per Capita?
