@@ -60,3 +60,5 @@ This report provides an in-depth analysis of Nigeria's economic and demographic 
 
 ## Omdena
 This project was created in collaboration with Omdena Kaduna Chapter, where I worked as a Lead Machine Learning Engineer. Omdena is a global platform that collaborates on real-world problems through AI innovation, bringing together engineers, researchers, and domain experts.
+
+Link: https://www.omdena.com/chapter-challenges/quick-view-of-price-surge-in-nigeria-economy-using-data-science
