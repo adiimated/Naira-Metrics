@@ -58,3 +58,5 @@ This report provides an in-depth analysis of Nigeria's economic and demographic 
 | **Statistical Breakdown of Columns** | **Interbank Call Rate**: Average of 11.5%, median of 10.5%, with fluctuations over time.                                                                             |
 | **Monthly Fuel Price**             | Distribution: Right-skewed with occasional high spikes.                                                                                                              |
 
+## Omdena
+This project was created in collaboration with Omdena Kaduna Chapter, where I worked as a Lead Machine Learning Engineer. Omdena is a global platform that collaborates on real-world problems through AI innovation, bringing together engineers, researchers, and domain experts.
