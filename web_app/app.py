@@ -564,7 +564,7 @@ elif selected == "Consumer Price Index":
 #----------------------------------------------GDP-------------------------------------------------------------------
 elif selected == "GDP":
     st.title('GDP per Capita Prediction Tool')
-    st.image("web_app/Media/GDP.jpg", caption="Consumer Price Index", use_column_width=True)
+    st.image("web_app/Media/GDP.jpg", caption="GDP", use_column_width=True)
     # Continue with content for GDP
     st.markdown("""
     ## What is GDP per Capita?
